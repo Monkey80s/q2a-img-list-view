@@ -1,0 +1,12 @@
+{
+    "name": "img-list-views",
+    "uri": "https://github.com/Monkey80s",
+    "description": "In Questions2answers software.Place an image that replaces the guest text in the question list panel.",
+    "version": "1",
+    "date": "2020-10-09",
+    "author": "Monkey",
+    "source": "a code php",
+    "author_uri": "https://agorapreguntas.club",
+    "license": "GPLv2",
+    "load_order": "after_db_init"
+}
